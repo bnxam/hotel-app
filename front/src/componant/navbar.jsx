@@ -6,9 +6,9 @@ const Navbar = () => {
     return (
         <>
             <nav className="" >
-                <p className="text-4">hallo world</p>
+                <p className="text-4xl">hallo world</p>
             </nav>
-            <main>
+            <main className="">
 
             </main>
         </>
